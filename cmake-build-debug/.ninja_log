@@ -1,0 +1,20 @@
+# ninja log v5
+2	365	1673734188603018668	CMakeFiles/LinkedList.dir/DoublyLinkedList.cpp.o	5f49d17e7ebc60dd
+5	371	1673731308385305333	CMakeFiles/LinkedList.dir/functions.cpp.o	327b900a1161e298
+365	404	1673734188645690979	LinkedList	bba7673ea18ed4d9
+2	352	1673733870124819793	CMakeFiles/LinkedList.dir/main.cpp.o	c16db5c96f94199d
+4	348	1673734329172034759	CMakeFiles/LinkedList.dir/DoublyLinkedList.cpp.o	5f49d17e7ebc60dd
+348	392	1673734329218828554	LinkedList	bba7673ea18ed4d9
+2	346	1673734357667984235	CMakeFiles/LinkedList.dir/DoublyLinkedList.cpp.o	5f49d17e7ebc60dd
+346	382	1673734357706084946	LinkedList	bba7673ea18ed4d9
+2	354	1673734456053450972	CMakeFiles/LinkedList.dir/DoublyLinkedList.cpp.o	5f49d17e7ebc60dd
+354	407	1673734456108249200	LinkedList	bba7673ea18ed4d9
+2	386	1673734483548041907	CMakeFiles/LinkedList.dir/DoublyLinkedList.cpp.o	5f49d17e7ebc60dd
+386	456	1673734483607323694	LinkedList	bba7673ea18ed4d9
+3	354	1673734573050056991	CMakeFiles/LinkedList.dir/DoublyLinkedList.cpp.o	5f49d17e7ebc60dd
+354	404	1673734573101595089	LinkedList	bba7673ea18ed4d9
+2	370	1673734636162848353	CMakeFiles/LinkedList.dir/DoublyLinkedList.cpp.o	5f49d17e7ebc60dd
+370	411	1673734636206096942	LinkedList	bba7673ea18ed4d9
+2	297	1673734662350714860	CMakeFiles/LinkedList.dir/main.cpp.o	c16db5c96f94199d
+3	313	1673734662366119199	CMakeFiles/LinkedList.dir/DoublyLinkedList.cpp.o	5f49d17e7ebc60dd
+313	374	1673734662428939943	LinkedList	bba7673ea18ed4d9
